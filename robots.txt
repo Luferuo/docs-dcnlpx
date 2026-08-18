@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-h48oo8.haybaleman.co.nz/sitemap.xml
